@@ -1,5 +1,5 @@
 package Classes;
 
 public enum HttpMethods {
- GET,POST
+ GET,POST,PUT;
 }
